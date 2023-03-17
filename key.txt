@@ -1,0 +1,9 @@
+## Google API Key
+VAR_6 = 'AIzaSyBUPHAjZl3n8Eza66ka6B78iVyPteC5MgM'
+
+## Google Captcha
+VAR_7 = '6Lrjv_b_jgnybWRwKSn2P6lop58PGZ_NfewZWnRT'
+
+# Github
+## Github Personal Access Token
+VAR_8 = '88df97769ab3185f2c0b2a73fdae1b27d89409ca'
